@@ -10,4 +10,4 @@ Ngo Thi Kim Hoa - Product Owner
 Tran Gia Huy - Tech Lead , Product Owner , Business Analyst
 Nguyen Thi Phuong Thao - Business Analyst
 Tran Thanh Trung - UX Designer
-Huy Tran - Developers
+Tran Dang Quang Huy - Developers
